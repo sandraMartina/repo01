@@ -25,3 +25,21 @@ procedemos a subir nuestros archivos a nuestro repositorio local
  ![Esta es la imagen de commit](./IMG/3.png)
 
 # 1.4 Git Push  
+
+Ahora trataremos de enviar el git a la nube
+
+![Esta es la imagen de git push](./IMG/4.png)
+
+nos damos cuenta que no  tenemos un destino para el repositorio que se  encuentra en la nube
+
+
+
+# 1.5 Git Remote 
+
+si ejecutamos  este comando 
+
+![Esta es la imagen de git remoto](./IMG/5.png)
+
+nos nos saldra ningun contenido porque lo que esta haciendo es mostrar si tenemos un repositorio remoto.
+
+# 1.6 Repositorio Remoto
