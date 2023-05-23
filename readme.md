@@ -1,6 +1,7 @@
-# 1.1 Creación de Repositorio  
+# 1.1 Ejercicio 1 
 
-## **Iniciar Repositorio**  
+
+## **Creación de Repositorio**  
 Vamos a crear una carpeta la cual llamaremos repo1, ahora en visual studio code, iniciamos con el terminal en bash, haciendo **GIT  INIT** de la siguiente manera
 
 
@@ -74,3 +75,5 @@ Para subir los cambios que hemos hechos en el local para el repositorio remoto, 
 >>>Finalmente agregamos esos repositorios a un repositorio remoto
 
 ![Esta es la imagen de git push](./IMG/11.png)
+
+
