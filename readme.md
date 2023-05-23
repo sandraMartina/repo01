@@ -91,3 +91,15 @@ si hemos creamos un repositorio en github,  este sera un repositorio remoto
 Se ha comentado que la forma practica para trabajar en un repositorio es clonarlo, por lo tanto procederemos a hacerlo.
 
 ![Esta es la imagen de clon del repositorio](./IMG/13.png)
+
+## 2.3 Fichero Readme
+
+Vamos a crear un fichero readme.md dentro del repositorio que hemos clonado, agregamos el repositorio a stagin area, y ahora con un commit, lo subiremos a nuestro repositorio loccal
+
+![Esta es la imagen de clon del repositorio](./IMG/14.png)
+
+
+
+## 2.5 Manual Marckdown
+
+este paso ya lo haremos en el siguiente repositorio que hemos creado y sobre la cual se ha crado el readme.
