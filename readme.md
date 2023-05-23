@@ -77,3 +77,17 @@ Para subir los cambios que hemos hechos en el local para el repositorio remoto, 
 ![Esta es la imagen de git push](./IMG/11.png)
 
 
+
+#  Ejercicio 2
+
+## 2.1 Creación  repositorio remoto
+si hemos creamos un repositorio en github,  este sera un repositorio remoto
+
+![Esta es la imagen de creacion repositorio remoto](./IMG/12.png)
+
+
+## 2.2 Clonacion repositorio
+
+Se ha comentado que la forma practica para trabajar en un repositorio es clonarlo, por lo tanto procederemos a hacerlo.
+
+![Esta es la imagen de clon del repositorio](./IMG/13.png)
