@@ -47,6 +47,15 @@ nos nos saldra ningun contenido porque lo que esta haciendo es mostrar si tenemo
 Crearemos un repositorio remoto
 
 
-![Esta es la imagen de git remoto](./IMG/6.png)
+![Esta es la imagen de Repositorio remoto](./IMG/6.png)
 
 ahora lo asociamos a nuetro repositorio local 
+
+![Esta es la imagen de git push](./IMG/7.png)
+
+
+# 1.7 Git Rem -v
+Si solvemos a ejecutar el comando de git remote -v nos daremos cuenta de lo siguiente:
+Indica que nuestro repositorio local se ha podido asociar al repositorio remoto
+
+![Esta es la imagen de git push](./IMG/8.png)
