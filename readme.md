@@ -58,4 +58,11 @@ ahora lo asociamos a nuetro repositorio local
 Si solvemos a ejecutar el comando de git remote -v nos daremos cuenta de lo siguiente:
 Indica que nuestro repositorio local se ha podido asociar al repositorio remoto
 
-![Esta es la imagen de git push](./IMG/8.png)
+![Esta es la imagen de git remote -v](./IMG/8.png)
+
+# 1.8 Commit local
+
+Para subir los cambios que hemos hechos en el local para el repositorio remoto, lo que tendremos que hacer es un git push.
+
+![Esta es la imagen de git remote -v](./IMG/9.png)
+
