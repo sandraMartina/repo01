@@ -43,3 +43,10 @@ si ejecutamos  este comando
 nos nos saldra ningun contenido porque lo que esta haciendo es mostrar si tenemos un repositorio remoto.
 
 # 1.6 Repositorio Remoto
+
+Crearemos un repositorio remoto
+
+
+![Esta es la imagen de git remoto](./IMG/6.png)
+
+ahora lo asociamos a nuetro repositorio local 
