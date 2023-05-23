@@ -1,0 +1,2 @@
+# Creación de Repositorio  
+Vamos a crear una carpeta la cual llamaremos repo1, ahora en visual studio code, iniciamos con el terminal en bash, haciendo **GIT  INIT** de la siguiente manera ![Esta es la imagen de inicio del repositorio](https://User/../../Screenshot%202023-05-23%20at%203.23.40%20PM.png)
