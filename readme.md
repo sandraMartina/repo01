@@ -100,6 +100,6 @@ Vamos a crear un fichero readme.md dentro del repositorio que hemos clonado, agr
 
 
 
-## 2.5 Manual Marckdown
+## 2.4 Manual Marckdown
 
 este paso ya lo haremos en el siguiente repositorio que hemos creado y sobre la cual se ha crado el readme.
