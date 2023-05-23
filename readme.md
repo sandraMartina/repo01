@@ -1,13 +1,13 @@
-# Creación de Repositorio  
+# 1.1 Creación de Repositorio  
 
 ## **Iniciar Repositorio**  
 Vamos a crear una carpeta la cual llamaremos repo1, ahora en visual studio code, iniciamos con el terminal en bash, haciendo **GIT  INIT** de la siguiente manera
 
 
+
  ![Esta es la imagen de inicio del repositorio](./IMG/1.png)
 
-
-## **Stagin area**  
+# 1.3 Stagin area  
 
 Nuestro fichero ahora si se hace un **GIT ADD .** el punto nos permitirá iniciar dentro de la carpeta 
 
@@ -16,7 +16,12 @@ Nuestro fichero ahora si se hace un **GIT ADD .** el punto nos permitirá inicia
 
 ahora nuestro archivos se encuentran en **stagin area**, procedemos a subirlo con...
 
-## **GIT Commit**  
+
+### **GIT Commit**  
 
 procedemos a subir nuestros archivos a nuestro repositorio local
+
+
  ![Esta es la imagen de commit](./IMG/3.png)
+
+# 1.4 Git Push  
