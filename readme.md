@@ -64,5 +64,13 @@ Indica que nuestro repositorio local se ha podido asociar al repositorio remoto
 
 Para subir los cambios que hemos hechos en el local para el repositorio remoto, lo que tendremos que hacer es un git push.
 
-![Esta es la imagen de git remote -v](./IMG/9.png)
+![Esta es la imagen de git push](./IMG/10.png)
 
+# 1.9 Repositorio remoto
+
+>Hemos agregado cada repositorio con un git add.
+>>subimos los repositorios con un git commit
+
+>>>Finalmente agregamos esos repositorios a un repositorio remoto
+
+![Esta es la imagen de git push](./IMG/11.png)
