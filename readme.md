@@ -131,3 +131,6 @@ iniciamos nuestra carpeta local para que sea un repositorio local.
 >>> - [x] **Creamos rama con nombre y fecha**
 con un git branch <> podemos crear ramas, en este caso creamos una con nuestro nombre y fecha
 ![Esta es la imagen sobre git branch](./IMG/17.png)
+
+
+>>> - [x] **Realizamos 3 commits sobre la rama que hemos creado con nuestro nombre**
