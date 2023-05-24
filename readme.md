@@ -114,6 +114,7 @@ Bloque de ejercico de git
 
 
 # 4.1 FAST FORWARD :v: 
+El fast forward es que nos permite agregar un brach a la rama principal, este automaticamente se utiliza.
 
 >Creamos una carpeta la cual llamaremos repo04, 
 >>agregamos un **readme.md**, e iniciamos
@@ -138,5 +139,15 @@ luego de hacer los commits tendremos verificamos que el head direcciona sobre nu
 ![Esta es la imagen sobre git commit sobre branch](./IMG/19.png)
 
 >>> - [x] **Fucionar mi rama en master**
-haremos un push hacia nuestra rama 
-![Esta es la imagen sobre git commit push sobre branch](./IMG/20.png)
+mi branch tiene que juntarse con main, que es la rama principal, entonces nos ubicamos primero en main, seguidamente buscamos la rama, 
+![Esta es la imagen sobre git commit push sobre branch](./IMG/21.png)
+
+
+>>> - [x] **Push hacia la nube**
+haremos un push hacia la nube de la siguiente manera
+
+![Esta es la imagen sobre git commit push sobre branch hacia la nube](./IMG/22.png)
+
+>>> - [x] **Eliminamos rama local**
+Ahora eliminamos el branch en local
+![Esta es la imagen sobre git commit push sobre branch hacia la nube](./IMG/23.png)
