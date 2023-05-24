@@ -105,6 +105,13 @@ Vamos a crear un fichero readme.md dentro del repositorio que hemos clonado, agr
 este paso ya lo haremos en el siguiente repositorio que hemos creado y sobre la cual se ha crado el readme.
 
 
+# 3.1 Bloque GIT:v: 
+
+Bloque de ejercico de git
+
+
+![Esta es la imagen de clon del repositorio](./IMG/18.png)
+
 
 # 4.1 FAST FORWARD :v: 
 
@@ -112,4 +119,15 @@ este paso ya lo haremos en el siguiente repositorio que hemos creado y sobre la 
 >>agregamos un **readme.md**, e iniciamos
 iniciamos nuestra carpeta local para que sea un repositorio local.
 
->>>**Git ini .**
+>>> - [x] **Git init .**
+>>> - [x] **Git add .**
+>>> - [x] **Git commit -m "repo04"**
+>>> - [x] **Creacion repositorio  remoto**
+![Esta es la imagen de creacion repositorio remoto](./IMG/15.png)
+
+>>> - [x] **git add origin and push**
+![Esta es la imagen sobre git push](./IMG/16.png)
+
+>>> - [x] **Creamos rama con nombre y fecha**
+con un git branch <> podemos crear ramas, en este caso creamos una con nuestro nombre y fecha
+![Esta es la imagen sobre git branch](./IMG/17.png)
