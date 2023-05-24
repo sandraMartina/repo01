@@ -103,3 +103,13 @@ Vamos a crear un fichero readme.md dentro del repositorio que hemos clonado, agr
 ## 2.4 Manual Marckdown
 
 este paso ya lo haremos en el siguiente repositorio que hemos creado y sobre la cual se ha crado el readme.
+
+
+
+# 4.1 FAST FORWARD :v: 
+
+>Creamos una carpeta la cual llamaremos repo04, 
+>>agregamos un **readme.md**, e iniciamos
+iniciamos nuestra carpeta local para que sea un repositorio local.
+
+>>>**Git ini .**
