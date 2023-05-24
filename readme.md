@@ -134,3 +134,5 @@ con un git branch <> podemos crear ramas, en este caso creamos una con nuestro n
 
 
 >>> - [x] **Realizamos 3 commits sobre la rama que hemos creado con nuestro nombre**
+luego de hacer los commits tendremos verificamos que el head direcciona sobre nuestra branch sobre el tercer commit
+![Esta es la imagen sobre git commit sobre branch](./IMG/19.png)
