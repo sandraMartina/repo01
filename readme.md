@@ -170,7 +170,7 @@ ahora veremos como con el comando **git log --all --decorate --oneline --graph**
 Con el Merge ff, nos permite fusionar la rama a la rrama main sin autorizacion, esta es la que ejecutamos  por defecto, y con no-ff ocurre lo contrario, permitiendo un historial de su avance 
 
 
->>> - [x] **Creacion de un ALIAS**
+# 6.1 Creacion ALIAS :v: 
 
 Normalmente tenemos  inconvenientes en recordar comandos largos para ello, crearemos un alias, estas con el  fin que sean cortas. como vemos a continuacion veremos  un alias  de **git log --all --decorate --oneline --graph**
 
