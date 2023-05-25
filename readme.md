@@ -148,6 +148,23 @@ haremos un push hacia la nube de la siguiente manera
 
 ![Esta es la imagen sobre git commit push sobre branch hacia la nube](./IMG/22.png)
 
->>> - [x] **Eliminamos rama local**
+
 Ahora eliminamos el branch en local
 ![Esta es la imagen sobre git commit push sobre branch hacia la nube](./IMG/23.png)
+
+# 5.1 NO FAST FORWARD :v: 
+
+Continuamos con nuestra actividad, seguiremos los primeros pasos del ejercicio 4, lo que nosotros necesitamos saber es la diferencia entre commits con no forwar, en la siguiente img,
+
+![Esta es la imagen sobre git commit push sobre branch hacia la nube con un no forward](./IMG/24.png)
+
+
+>>> - [x] **Resultado**
+ahora veremos como con el comando **git log --all --decorate --oneline --graph** nos mostrar informacion importante
+
+![Esta es la imagen sobre git commit push sobre branch hacia la nube con un no forward](./IMG/25.png)
+
+
+###  **Diferencia merge ff y no-ff**
+
+Con el Merge ff, nos permite fusionar la rama a la rrama main sin autorizacion, esta es la que ejecutamos  por defecto, y con no-ff ocurre lo contrario, permitiendo un historial de su avance 
